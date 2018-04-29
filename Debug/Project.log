@@ -1,0 +1,24 @@
+﻿  Appetiser.cpp
+  Dessert.cpp
+  Food.cpp
+  Main_Dish.cpp
+  Order.cpp
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(57): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(66): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(75): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\order.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Restaurant.cpp
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(108): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(235): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(20): warning C4101: 'cost': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(18): warning C4101: 'vegNonveg': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(23): warning C4101: 'pro_code': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(14): warning C4101: 'food_id': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(17): warning C4101: 'calories': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(16): warning C4101: 'preparation_time': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(22): warning C4101: 'portion': unreferenced local variable
+c:\users\hllcn\desktop\google drive\halilcan_assignment 2\project\project\restaurant.cpp(24): warning C4101: 'number_in_plate': unreferenced local variable
+  Generating Code...
+  Project.vcxproj -> C:\Users\hllcn\Desktop\Google Drive\Halilcan_Assignment 2\Project\Debug\Project.exe
